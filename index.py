@@ -10,4 +10,4 @@ Primer_numero = input("Ingrese un numero: ")
 Segundo_numero = input("Ingrese un numero: ")
 resultado = print('resultado es:', (int(Primer_numero) * int(Segundo_numero)))
 
-print("Hola mundo desde la nueva rama ")
+print("Hola mundo desde la nueva rama denominada prueba ")
